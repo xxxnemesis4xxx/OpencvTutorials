@@ -1,0 +1,13 @@
+﻿Build started 12/21/2014 4:58:27 AM.
+Project "c:\Users\Admin\documents\visual studio 2013\Projects\OpencvTutorials\OpencvTutorials\OpencvTutorials.vcxproj" on node 2 (Build target(s)).
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\OpenCV\Build\x64\vc12\..\..\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Test.cpp
+  Test.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\admin\documents\visual studio 2013\Projects\OpencvTutorials\Debug\OpencvTutorials.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\OpenCV\Build\x64\vc12\lib opencv_core231d.lib opencv_imgproc231d.lib opencv_highgui231d.lib opencv_ml231d.lib opencv_video231d.lib opencv_features2d231d.lib opencv_calib3d231d.lib opencv_objdetect231d.lib opencv_contrib231d.lib opencv_legacy231d.lib opencv_flann231d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\admin\documents\visual studio 2013\Projects\OpencvTutorials\Debug\OpencvTutorials.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\admin\documents\visual studio 2013\Projects\OpencvTutorials\Debug\OpencvTutorials.lib" /MACHINE:X86 Debug\Test.obj
+LINK : fatal error LNK1104: cannot open file 'opencv_core231d.lib'
+Done Building Project "c:\Users\Admin\documents\visual studio 2013\Projects\OpencvTutorials\OpencvTutorials\OpencvTutorials.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:06.40
