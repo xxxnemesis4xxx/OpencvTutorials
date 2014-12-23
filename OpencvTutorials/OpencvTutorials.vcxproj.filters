@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="BlendingTwoImageTogether.cpp">
+    <ClCompile Include="ChangingBrightnessContrast.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
