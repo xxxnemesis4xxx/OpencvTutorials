@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ChangingBrightnessContrast.cpp">
+    <ClCompile Include="Basic_Drawing.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
