@@ -19,6 +19,7 @@ int main(void){
 	char rook_window[] = "Drawing 2: Rook";
 
 	/// Create black empty images
+	//CV_8UC3 = 8 Bit Unsigned Char 3 channels
 	Mat atom_image = Mat::zeros(w, w, CV_8UC3);
 	Mat rook_image = Mat::zeros(w, w, CV_8UC3);
 
