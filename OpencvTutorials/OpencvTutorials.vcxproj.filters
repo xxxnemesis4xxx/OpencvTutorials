@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Basic_Drawing.cpp">
+    <ClCompile Include="RandomGeneratorAndText.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
