@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Smoothing_Image.cpp">
+    <ClCompile Include="ErosionDilatation.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
