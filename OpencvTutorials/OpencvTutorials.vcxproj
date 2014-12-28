@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="FileInputOutputXmlYaml.cpp" />
+    <ClCompile Include="Smoothing_Image.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{573596F5-AC63-42CC-98D9-6ED3073BD3B7}</ProjectGuid>

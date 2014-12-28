@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="FileInputOutputXmlYaml.cpp">
+    <ClCompile Include="Smoothing_Image.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
