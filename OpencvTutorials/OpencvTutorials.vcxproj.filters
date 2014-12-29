@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Morphology.cpp">
+    <ClCompile Include="Pyramids.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
