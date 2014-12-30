@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Basic_thresholding.cpp">
+    <ClCompile Include="Filter_2D.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
