@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Filter_2D.cpp">
+    <ClCompile Include="Add_Border.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
