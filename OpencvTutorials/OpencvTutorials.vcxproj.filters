@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Pyramids.cpp">
+    <ClCompile Include="Basic_thresholding.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
