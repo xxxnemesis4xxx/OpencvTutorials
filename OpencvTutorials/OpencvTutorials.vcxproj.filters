@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Detect_Circle_In_Image.cpp">
+    <ClCompile Include="Remapping_Images.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
