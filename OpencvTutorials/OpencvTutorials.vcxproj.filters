@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Affine_Transformation.cpp">
+    <ClCompile Include="Template_Matching.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
