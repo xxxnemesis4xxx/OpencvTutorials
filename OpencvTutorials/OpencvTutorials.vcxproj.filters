@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Remapping_Images.cpp">
+    <ClCompile Include="Affine_Transformation.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
