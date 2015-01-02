@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Detect_Edge_Grayscale_Image_2.cpp" />
+    <ClCompile Include="Detect_LIne_In_Image.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{573596F5-AC63-42CC-98D9-6ED3073BD3B7}</ProjectGuid>

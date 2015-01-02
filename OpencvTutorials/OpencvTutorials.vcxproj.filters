@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Detect_Edge_Grayscale_Image_2.cpp">
+    <ClCompile Include="Detect_LIne_In_Image.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
