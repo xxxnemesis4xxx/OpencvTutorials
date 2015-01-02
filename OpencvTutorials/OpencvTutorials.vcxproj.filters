@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Template_Matching.cpp">
+    <ClCompile Include="Finding_Contours.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
