@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Bounding_Rotating_Boxes_And_Eclipse_Contour.cpp">
+    <ClCompile Include="Image_Moments.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
