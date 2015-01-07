@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Creating_Boxes_Circles_Contour.cpp">
+    <ClCompile Include="Bounding_Rotating_Boxes_And_Eclipse_Contour.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
