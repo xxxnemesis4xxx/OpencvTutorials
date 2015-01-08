@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ShiThomasiCornerDetection.cpp">
+    <ClCompile Include="OurCornerDetection.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
